@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/drawable/icon_tools.xml" value="0.4265" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/activity_showcalender.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/activity_showrepertorium.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/fragment_cal.xml" value="0.5276268115942029" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/fragment_rep.xml" value="0.5276268115942029" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/fragment_tools.xml" value="0.1" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/new_calendarentry.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/layout/newcalentry_fragment.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/sonet/Dropbox/Backup_OneDrive/Dokumente/FFHS/ESA/Nachholarbeit/BandOrganizer/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.5604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

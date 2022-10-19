@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottomnavigation"
+    app:startDestination="@id/calFragment">
+
+    <fragment
+        android:id="@+id/calFragment"
+        android:name="com.example.bandorganizer.CalFragment"
+        android:label="fragment_cal"
+        tools:layout="@layout/activity_showcalender" />
+    <fragment
+        android:id="@+id/repFragment"
+        android:name="com.example.bandorganizer.RepFragment"
+        android:label="fragment_rep"
+        tools:layout="@layout/activity_showrepertorium" />
+    <fragment
+        android:id="@+id/toolsFragment"
+        android:name="com.example.bandorganizer.ToolsFragment"
+        android:label="fragment_tools"
+        tools:layout="@layout/activity_showtools" />
+</navigation>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BandOrganizer</string>
+    <string name="text_Cal">Kalender</string>
+    <string name="text_Rep">Repertorium</string>
+    <string name="text_Tools">Tools</string>
+    <string name="text_titel">Titel</string>
+    <string name="GoogleCalendarApikey">AIzaSyC28Q6ZEm37k2WwF6IP9VhItml49iE4QrY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
